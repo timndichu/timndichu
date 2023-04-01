@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sanchaksh Kaul</h1>
-<h3 align="center">A Software Engineering Intern @Oracle</h3>
-<h3 align="center">Actually an Electronics and Computer Engineer</h3>
-<h3 align="center">Java & Springboot Developer</h3>
+<h1 align="center">Hi 👋, I'm Timothy Ndichu</h1>
+<h3 align="center">A Full Stack Software Engineer</h3>
+<h3 align="center">Actually, an Electronics and Computer Engineer as well</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchaksh&label=Profile%20views&color=0e75b6&style=flat" alt="sanchaksh" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchaksh&label=Profile%20views&color=0e75b6&style=flat" alt="timndichu" /> </p>
 
 - 🌱 I’m currently learning about **APIs** and **SpringBoot**
 
