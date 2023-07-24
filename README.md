@@ -10,7 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/timndichu/](https://github.com/timndichu/)
 
-- 📝 I Have my portfolio at [https://timndichu-portfolio.vercel.app/](https://timndichu-portfolio.vercel.app/)
+- 🏠 I Have my portfolio at [https://timndichu-portfolio.vercel.app/](https://timndichu-portfolio.vercel.app/)
+
+- 📝 I also write dev articles:
+  - Medium: [Medium profile](https://medium.com/@timndichu)
+  - Dev.to: [DEV.to profile](https://dev.to/timndichu)
 
 - 💬 Ask me about **Flutter, ReactJS, NodeJS, NextJS**
 
