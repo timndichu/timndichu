@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Flutter, ReactJS, NodeJS, NextJS**
 
-- 📄 Know about my experiences in my **[Resume](https://drive.google.com/file/d/1r7SGTOo1v4mNpijFf__gKY5tcYdAfr5q/view?usp=sharing)**
+- 📄 Know about my experiences in my **[Resume](https://drive.google.com/file/d/1otrK5Znf7GBV6nVV6CJRFUuF0aN2LG5R/view?usp=sharing)**
 
 <h3>Languages and Tools:</h3>
 <p style="display: flex; align-items: center;gap:10px">Web:
