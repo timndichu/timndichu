@@ -1,62 +1,119 @@
-<h1 align="center">Hi 👋, I'm Timothy Ndichu</h1>
-<h3 align="center">A Full Stack Software Engineer</h3>
-<h3 align="center">Actually, an Electronics and Computer Engineer as well</h3>
+# Timothy Ndichu
+### Full-Stack Software Engineer | Backend Engineering | Distributed Systems
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=timndichu&label=Profile%20views&color=0e75b6&style=flat" alt="timndichu" /> </p>
+I build software that solves real-world problems — from user-facing applications to backend services, APIs, and enterprise integrations.
 
-- 🌱 I’m currently learning about **AI** and **ML**
+I'm a Software Engineer with a background in **Electronics and Computer Engineering** and experience spanning full-stack development, enterprise banking systems, database optimization, and distributed systems. I enjoy understanding how systems work beneath the surface, making them more reliable, and turning complex requirements into maintainable software.
 
-- 👯 I’m looking to collaborate on **Any Projects as per my skillset**
+My current interests include **system design, distributed systems, backend performance, and applied AI/ML**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/timndichu/](https://github.com/timndichu/)
+[Portfolio](https://timndichu-portfolio.vercel.app/) · [GitHub Projects](https://github.com/timndichu) · [Medium](https://medium.com/@timndichu) · [DEV Community](https://dev.to/timndichu) · [Resume](https://drive.google.com/file/d/1otrK5Znf7GBV6nVV6CJRFUuF0aN2LG5R/view?usp=sharing)
 
-- 🏠 I Have my portfolio at [https://timndichu-portfolio.vercel.app/](https://timndichu-portfolio.vercel.app/)
+---
 
-- 📝 I also write dev articles:
-  - Medium: [Medium profile](https://medium.com/@timndichu)
-  - Dev.to: [DEV.to profile](https://dev.to/timndichu)
+## What I Work On
 
-- 💬 Ask me about **Flutter, ReactJS, NodeJS, NextJS**
+- **Backend Engineering:** Designing REST APIs, implementing business logic, validating requests, and building maintainable services.
+- **Database Engineering:** Relational data modelling, SQL optimization, indexing, migrations, and ORM performance.
+- **Distributed Systems:** Exploring idempotency, concurrency, event-driven architectures, and reliable communication between services.
+- **Full-Stack Development:** Building web and mobile applications with modern frontend frameworks and backend technologies.
+- **Enterprise Integrations:** Working with banking systems, messaging infrastructure, application servers, and enterprise deployment environments.
+- **Engineering Quality:** Automated testing, API documentation, clean architecture, and production troubleshooting.
 
-- 📄 Know about my experiences in my **[Resume](https://drive.google.com/file/d/1otrK5Znf7GBV6nVV6CJRFUuF0aN2LG5R/view?usp=sharing)**
+## Featured Projects
 
-<h3>Languages and Tools:</h3>
-<p style="display: flex; align-items: center;gap:10px">Web:
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/> 
-</a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <!-- typescript --> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+### [Mini Ticket Tracker](https://github.com/timndichu/mini-ticket-tracker)
+A full-stack ticket management application built as a developer take-home project.
+
+- REST API built with Node.js, Express, and TypeScript.
+- PostgreSQL persistence with Drizzle ORM and request validation using Zod.
+- Integration testing with Node.js's test runner and Supertest.
+- React, TypeScript, Vite, and Tailwind CSS frontend.
+
+**Live application:** [mini-ticket-tracker.vercel.app](https://mini-ticket-tracker.vercel.app/)
+
+### [Distributed Systems Labs](https://github.com/timndichu/distributed-systems-labs)
+A practical engineering laboratory for exploring distributed systems concepts through small, focused implementations.
+
+- Exploring idempotency in service-based architectures.
+- Understanding duplicate request handling and failure scenarios.
+- Investigating database-backed idempotency and atomic uniqueness guarantees.
+
+### [Victory Cakes](https://victorycakes.co.ke/)
+A customer-facing cake ordering platform built to connect a business with its customers.
+
+- React, Vite, TypeScript, and Tailwind CSS frontend.
+- Node.js backend using Hono.js.
+- PostgreSQL with Drizzle ORM.
+- Cloud-based image storage and WhatsApp-based order initiation.
+
+---
+
+## Technical Skills
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Backend & APIs**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Databases & Data Access**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud, DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**Testing & Engineering Practices**
+
+- Unit and integration testing
+- API testing and request validation
+- Database migrations and schema design
+- Git-based workflows and code reviews
+- Application monitoring and production troubleshooting
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=timndichu&show_icons=true&hide_border=true&rank_icon=github" alt="Timothy's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timndichu&layout=compact&hide_border=true" alt="Most used programming languages" height="165" />
 </p>
 
-<p style="display: flex; align-items: center;gap:10px">Mobile: 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>   <a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>  <a href="https://dart.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>  
-<!-- kotlin --> <a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a> 
-<!-- react native --> <a href="https://reactnative.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  </p>
+---
 
-  <p style="display: flex; align-items: center;gap:10px">Backend: 
- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  </p>
-    <p style="display: flex; align-items: center;gap:10px">Cloud: <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  
-    <!-- digital ocean --> <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="40" height="40"/> </a>
-    <!-- netlify --> <a href="https://www.netlify.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a> 
-     </p>   
-      <p style="display: flex; align-items: center;gap:10px">DevOps: <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
-      <!-- nginx --> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-      <a href="https://about.gitlab.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
-      <a href="https://docs.github.com/en/actions" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="githubactions" width="40" height="40"/> </a>
-       </p>
-<p style="display: flex; align-items: center;gap:10px">Databases: <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-    </p>
-    <p style="display: flex; align-items: center;gap:10px">Embedded Systems:  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    </p> 
-   
+## Beyond the Code
 
-<p><img align="justified" src="https://github-readme-stats.vercel.app/api/top-langs?username=timndichu&show_icons=true&theme=radical&layout=compact" alt="timndichu" /></p>
+My Electronics and Computer Engineering background keeps me curious about the intersection of software, hardware, and connected systems. I also enjoy sharing engineering lessons and documenting what I learn through practical projects and technical articles.
 
-<!-- <p><img align="justified" src="https://github-readme-stats.vercel.app/api?username=timndichu&theme=radical&show_icons=true&locale=en" alt="timndichu" /></p>
+I'm open to **meaningful collaborations, challenging engineering problems, and opportunities to build reliable software with thoughtful teams**.
 
-<p><img align="justified" src="https://github-readme-streak-stats.herokuapp.com/?user=timndichu&theme=radical" alt="timndichu" /></p> -->
+If you're working on something interesting, let's connect.
