@@ -22,13 +22,7 @@ My current interests include **system design, distributed systems, backend perfo
 
 ## Featured Projects
 
-### [Mini Ticket Tracker](https://github.com/timndichu/mini-ticket-tracker)
-A full-stack ticket management application built as a developer take-home project.
 
-- REST API built with Node.js, Express, and TypeScript.
-- PostgreSQL persistence with Drizzle ORM and request validation using Zod.
-- Integration testing with Node.js's test runner and Supertest.
-- React, TypeScript, Vite, and Tailwind CSS frontend.
 
 **Live application:** [mini-ticket-tracker.vercel.app](https://mini-ticket-tracker.vercel.app/)
 
@@ -46,6 +40,14 @@ A customer-facing cake ordering platform built to connect a business with its cu
 - Node.js backend using Hono.js.
 - PostgreSQL with Drizzle ORM.
 - Cloud-based image storage and WhatsApp-based order initiation.
+
+### [Mini Ticket Tracker](https://github.com/timndichu/mini-ticket-tracker)
+A full-stack ticket management application built as a developer take-home project.
+
+- REST API built with Node.js, Express, and TypeScript.
+- PostgreSQL persistence with Drizzle ORM and request validation using Zod.
+- Integration testing with Node.js's test runner and Supertest.
+- React, TypeScript, Vite, and Tailwind CSS frontend.
 
 ---
 
